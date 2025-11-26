@@ -1,10 +1,124 @@
 {
-    "weather": [
-        {
-            "id": 1,
-            "city": "Atlanta",
-            "condition": "Windy",
-            "temperature": 60.0
-        }
-    ]
+  "weather": [
+    {
+      "id": 1,
+      "city": "Atlanta",
+      "condition": "Windy",
+      "temperature": 60
+    },
+    {
+      "id": 2,
+      "city": "New York",
+      "condition": "Cloudy",
+      "temperature": 48
+    },
+    {
+      "id": 3,
+      "city": "Los Angeles",
+      "condition": "Sunny",
+      "temperature": 72
+    },
+    {
+      "id": 4,
+      "city": "Chicago",
+      "condition": "Snow",
+      "temperature": 28
+    },
+    {
+      "id": 5,
+      "city": "Miami",
+      "condition": "Humid",
+      "temperature": 82
+    },
+    {
+      "id": 6,
+      "city": "Seattle",
+      "condition": "Rain",
+      "temperature": 52
+    },
+    {
+      "id": 7,
+      "city": "Denver",
+      "condition": "Sunny",
+      "temperature": 55
+    },
+    {
+      "id": 8,
+      "city": "Dallas",
+      "condition": "Hot",
+      "temperature": 88
+    },
+    {
+      "id": 9,
+      "city": "Boston",
+      "condition": "Windy",
+      "temperature": 45
+    },
+    {
+      "id": 10,
+      "city": "Houston",
+      "condition": "Thunderstorms",
+      "temperature": 79
+    },
+    {
+      "id": 11,
+      "city": "Phoenix",
+      "condition": "Hot",
+      "temperature": 95
+    },
+    {
+      "id": 12,
+      "city": "San Francisco",
+      "condition": "Foggy",
+      "temperature": 58
+    },
+    {
+      "id": 13,
+      "city": "Philadelphia",
+      "condition": "Cloudy",
+      "temperature": 50
+    },
+    {
+      "id": 14,
+      "city": "San Diego",
+      "condition": "Sunny",
+      "temperature": 70
+    },
+    {
+      "id": 15,
+      "city": "Las Vegas",
+      "condition": "Hot",
+      "temperature": 92
+    },
+    {
+      "id": 16,
+      "city": "Portland",
+      "condition": "Rain",
+      "temperature": 51
+    },
+    {
+      "id": 17,
+      "city": "Charlotte",
+      "condition": "Clear",
+      "temperature": 65
+    },
+    {
+      "id": 18,
+      "city": "Nashville",
+      "condition": "Partly Cloudy",
+      "temperature": 63
+    },
+    {
+      "id": 19,
+      "city": "Minneapolis",
+      "condition": "Snow",
+      "temperature": 22
+    },
+    {
+      "id": 20,
+      "city": "Orlando",
+      "condition": "Rain",
+      "temperature": 78
+    }
+  ]
 }
