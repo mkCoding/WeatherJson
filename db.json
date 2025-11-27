@@ -4,121 +4,142 @@
       "id": 1,
       "city": "Atlanta",
       "condition": "Windy",
-      "temperature": 60
+      "temperature": 60,
+      "icon": "🌬️"
     },
     {
       "id": 2,
       "city": "New York",
       "condition": "Cloudy",
-      "temperature": 48
+      "temperature": 48,
+      "icon": "☁️"
     },
     {
       "id": 3,
       "city": "Los Angeles",
       "condition": "Sunny",
-      "temperature": 72
+      "temperature": 72,
+      "icon": "☀️"
     },
     {
       "id": 4,
       "city": "Chicago",
       "condition": "Snow",
-      "temperature": 28
+      "temperature": 28,
+      "icon": "❄️"
     },
     {
       "id": 5,
       "city": "Miami",
       "condition": "Humid",
-      "temperature": 82
+      "temperature": 82,
+      "icon": "🥵"
     },
     {
       "id": 6,
       "city": "Seattle",
       "condition": "Rain",
-      "temperature": 52
+      "temperature": 52,
+      "icon": "🌧️"
     },
     {
       "id": 7,
       "city": "Denver",
       "condition": "Sunny",
-      "temperature": 55
+      "temperature": 55,
+      "icon": "☀️"
     },
     {
       "id": 8,
       "city": "Dallas",
       "condition": "Hot",
-      "temperature": 88
+      "temperature": 88,
+      "icon": "🔥"
     },
     {
       "id": 9,
       "city": "Boston",
       "condition": "Windy",
-      "temperature": 45
+      "temperature": 45,
+      "icon": "🌬️"
     },
     {
       "id": 10,
       "city": "Houston",
       "condition": "Thunderstorms",
-      "temperature": 79
+      "temperature": 79,
+      "icon": "⛈️"
     },
     {
       "id": 11,
       "city": "Phoenix",
       "condition": "Hot",
-      "temperature": 95
+      "temperature": 95,
+      "icon": "🔥"
     },
     {
       "id": 12,
       "city": "San Francisco",
       "condition": "Foggy",
-      "temperature": 58
+      "temperature": 58,
+      "icon": "🌫️"
     },
     {
       "id": 13,
       "city": "Philadelphia",
       "condition": "Cloudy",
-      "temperature": 50
+      "temperature": 50,
+      "icon": "☁️"
     },
     {
       "id": 14,
       "city": "San Diego",
       "condition": "Sunny",
-      "temperature": 70
+      "temperature": 70,
+      "icon": "☀️"
     },
     {
       "id": 15,
       "city": "Las Vegas",
       "condition": "Hot",
-      "temperature": 92
+      "temperature": 92,
+      "icon": "🔥"
     },
     {
       "id": 16,
       "city": "Portland",
       "condition": "Rain",
-      "temperature": 51
+      "temperature": 51,
+      "icon": "🌧️"
     },
     {
       "id": 17,
       "city": "Charlotte",
       "condition": "Clear",
-      "temperature": 65
+      "temperature": 65,
+      "icon": "🌤️"
     },
     {
       "id": 18,
       "city": "Nashville",
       "condition": "Partly Cloudy",
-      "temperature": 63
+      "temperature": 63,
+      "icon": "⛅"
     },
     {
       "id": 19,
       "city": "Minneapolis",
       "condition": "Snow",
-      "temperature": 22
+      "temperature": 22,
+      "icon": "❄️"
     },
     {
       "id": 20,
       "city": "Orlando",
       "condition": "Rain",
-      "temperature": 78
+      "temperature": 78,
+      "icon": "🌧️"
     }
   ]
 }
+
